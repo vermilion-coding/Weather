@@ -3,3 +3,7 @@
 
 
 A simple weather app. Utilizes the OpenWeather API.
+
+# Usage
+
+Run the HTML file in its directory. A new browser window will open with the application ready to use.
